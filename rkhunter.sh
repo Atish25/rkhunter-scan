@@ -10,7 +10,7 @@ echo -e "\e[31m|  #############        #### ##                                  
 echo -e "\e[31m|  #####   ####         ##### ####                                  |\e[0m"
 echo -e "\e[31m|  #####    #####       #####    ###                                |\e[0m"
 echo -e "\e[31m|  #####     #######    #####       ####                            |\e[0m"
-echo -e "\e[31m|                       \e[96m (c) 2016 ATISH DAS(CISPL) \e[0m\e[31m|\e[m"
+echo -e "\e[31m|                       \e[96m (c) 2016 WRITTEN BY ATISH) \e[0m\e[31m|\e[m"
 echo -e "\e[31m|--------- ------------  -------------------------------------------|\e[0m"
 
 read -p 'Would you like to Scan Your Server [y/n]: ' answer
